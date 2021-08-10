@@ -1,0 +1,9 @@
+﻿2021-08-10 11:48:36.3279|DEBUG|NLogSession.NLog|Debug Successfull : sum()
+2021-08-10 11:48:36.3380|INFO|NLogSession.NLog|Sum Method Passed, Result : 99
+2021-08-10 11:48:36.3380|INFO|NLogSession.NLog|Sum Method Passed, Result : 99
+2021-08-10 11:58:14.5967|DEBUG|NLogSession.NLog|Debug Successfull : sum()
+2021-08-10 11:58:14.6063|INFO|NLogSession.NLog|Sum Method Passed, Result : 9532
+2021-08-10 11:58:14.6063|INFO|NLogSession.NLog|Sum Method Passed, Result : 9532
+2021-08-10 22:10:53.0280|DEBUG|NLogSession.NLog|Debug Successfull : sum()
+2021-08-10 22:10:53.0280|INFO|NLogSession.NLog|Sum Method Passed, Result : 90
+2021-08-10 22:10:53.0280|INFO|NLogSession.NLog|Sum Method Passed, Result : 90
